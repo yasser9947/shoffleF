@@ -1,0 +1,41 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.3.2/css/simple-line-icons.min.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css";
+.body{
+    background:  linear-gradient(to top right,  #0b010f   0%,#181e25 100%)
+
+}
+
+.one {
+    /* background: blue; */
+display: flex;
+flex-wrap: wrap;
+width: 80%;
+margin: 0 13%;
+
+
+}
+.bttt{
+    margin-top: 30px;
+    margin-left:47%; 
+}
+.carde{
+    border: 1px solid black;
+    margin: 20px;
+    width: 200px;
+    /* background: aquamarine; */
+    background:  linear-gradient(to top right,  aquamarine   0%,#14a77b 100%);
+    border-radius: 50% 20% / 10% 40%;
+}
+.cardee{
+    margin: 20px
+}
+li{
+    margin-top: 5px
+}
+a {
+    width: 130px;
+
+}
+.image{
+    display: flex;
+}
